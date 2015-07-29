@@ -5,8 +5,8 @@ gem 'rails', '3.2.21'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-#gem 'sqlite3', '~> 1.3.10'
 
+gem 'pg'
 gem 'bootstrap-sass', '~> 3.1'
 # Gems used only for assets and not required
 # in production environments by default.
@@ -27,6 +27,7 @@ group :development, :test do
 	gem "factory_girl_rails", "~> 4.0"
 	gem 'capybara', '1.1.2'
 	gem 'simplecov', '~> 0.7.1'
+	gem 'sqlite3', '~> 1.3.10'
 end
 
 # To use ActiveModel has_secure_password
