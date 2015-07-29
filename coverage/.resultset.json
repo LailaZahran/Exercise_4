@@ -1,0 +1,48 @@
+{
+  "RSpec": {
+    "coverage": {
+      "c:/Users/Laila/Desktop/rails_projects/Exercise_4/demo_ex4_1/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "c:/Users/Laila/Desktop/rails_projects/Exercise_4/demo_ex4_1/app/helpers/application_helper.rb": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null
+      ],
+      "c:/Users/Laila/Desktop/rails_projects/Exercise_4/demo_ex4_1/app/helpers/blogs_helper.rb": [
+        1,
+        null
+      ],
+      "c:/Users/Laila/Desktop/rails_projects/Exercise_4/demo_ex4_1/app/helpers/users_helper.rb": [
+        1,
+        null,
+        null
+      ],
+      "c:/Users/Laila/Desktop/rails_projects/Exercise_4/demo_ex4_1/app/controllers/blogs_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "c:/Users/Laila/Desktop/rails_projects/Exercise_4/demo_ex4_1/app/controllers/users_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1438160598
+  }
+}
